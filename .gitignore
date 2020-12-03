@@ -1,1 +1,6 @@
-.ipynb_checkpoints
+*.ipynb_checkpoints
+debug.log
+2_DCGAN/mnist_gen
+3_Latent_Space/faces.npz
+3_latent_Space/models
+3_latent_Space/samples
