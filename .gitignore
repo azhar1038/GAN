@@ -5,3 +5,4 @@ debug.log
 3_latent_Space/models
 3_latent_Space/samples
 4_cGAN/cgan_generator.h5
+5_pix2pix/maps.npz
